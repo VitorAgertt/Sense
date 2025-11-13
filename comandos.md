@@ -1,4 +1,4 @@
-Administração (Nível 1)
+# Administração (Nível 1)
 /staff 
 /flash 
 /item 
@@ -29,7 +29,7 @@ Administração (Nível 1)
 /desbugar 
 /clearallobj
 
-Moderação (Nível 2)
+# Moderação (Nível 2)
 /clearinv 
 /resetskin 
 /kick 
@@ -48,7 +48,7 @@ Moderação (Nível 2)
 /status2 
 /respiracao
 
-Suporte (Nível 3)
+# Suporte (Nível 3)
 /ugroups 
 /god 
 /nc 
@@ -62,4 +62,5 @@ Suporte (Nível 3)
 /players 
 /usource 
 /passaporte 
+
 /debug
